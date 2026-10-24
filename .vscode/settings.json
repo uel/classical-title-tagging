@@ -1,0 +1,8 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "modalVolumes.volumes": [
+        "titles:/mnt/titles",
+        "kaggle:/mnt/kaggle"
+    ],
+    "modalVolumes.defaultTimeout": 14400
+}

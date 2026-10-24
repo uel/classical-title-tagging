@@ -1,0 +1,500 @@
+<N>練習曲集 作品10より 別れの曲
+<N>Piano Concerto<S> <I>No. 1<S> <D>in<S> <K>E minor<D>,<S> <CA>Op. 11<D>:<S> <I>I.<S> <N>Allegro maestoso
+<CO>Chopin<D>:<S> <N>Waltz<S> <I>No. 15<S> <D>in<S> <K>E Major<D>,<S> <CA>Op. Posth.
+<CA>Op.17<S> <N>Four Mazurkas Mazurka<S> <D>in<S> <K>A-Flat Major
+<N>Andante spianato et Grande polonaise brillante<D>,<S> <CA>Op. 22<D>:<S> <I>I.<S> <N>Andante spianato. Tranquillo
+<N>Nocturne<S> <D>in<S> <K>C-Sharp Minor<D>,<S> <CA>B.49
+<N>Polonaise<S> <I>No. 9<S> <D>in<S> <K>B-Flat Major<D>,<S> <CA>Op. 71<S> <I>No. 2
+<N>24 Préludes<D>,<S> <CA>Op. 28<D>:<S> <I>No. 2<S> <D>in<S> <K>A Minor
+<N>24 Préludes<D>,<S> <CA>Op.28<D>:<S> <I>2.<S> <D>In<S> <K>A Minor
+<N>3 Mazurkas<D>,<S> <CA>Op. 63<D>:<S> <I>No. 2<S> <D>in<S> <K>F Minor
+<N>The Firebird<S> <M>(<N>L'oiseau de feu<M>)<S> <D>-<S> <N>Ballet<S> <M>(<O>1910<M>)<D>:<S> <N>Game of the Princesses with the golden apples
+<CO>Stravinsky<D>:<S> <N>Le Chant du rossignol<D>:<S> <I>I.<S> <N>Introduction
+<CO>Stravinsky<D>:<S> <N>Œdipus rex<D>,<S> <I>Act I<D>:<S> <M>"<N>Dicere non possum, dicere non licet<M>"<S> <M>(<O>Tiresias, Oedipus<M>)
+<N>Le Sacre du Printemps<S> <D>-<S> <N>The Lasting Danger<D>:<S> <I>3.<S> <N>The Procession Of The Sage, The Sacred Kiss & The Dance Of The Earth<S> <D>-<S> <N>Stravinsky's Music & Nijinsky's Portrayal
+<N>Scènes de ballet<D>:<S> <N>Pantomime. Andantino
+<N>バレエ音楽 ミューズの神を率いるアポロ<D>,<S> <I>6.<S> <N>テルプシコールの踊り
+<N>Agon<S> <D>-<S> <N>Ballet<S> <M>(<O>1957<M>)<D>:<S> <I>12.<S> <N>Interlude
+<N>Le Sacre Du Printemps<D>,<S> <I>Pt. II<D>,<S> <N>the Sacrifice<D>:<S> <N>Introduction
+<N>The Firebird Suite<D>:<S> <N>Dance of the Firebird<S> <D>-<S> <N>Supplication of the Firebird
+<N>Trois Mouvements De Pétrouchka<D>:<S> <I>III.<S> <N>La Semaine Grasse
+<N>Friday Afternoons<D>,<S> <CA>Op. 7<D>:<S> <N>A New Year Carol
+<N>Simple Symphony<D>,<S> <CA>Op. 4<D>:<S> <I>IV.<S> <N>Frolicsome Finale
+<N>Simple Symphony<D>:<S> <I>II.<S> <N>Playfull pizzicato
+<CO>Britten<D>:<S> <N>Our Hunting Fathers<D>,<S> <CA>Op. 8<D>:<S> <I>No. 4<D>,<S> <N>Dance of Death
+<N>The Birds
+<N>Who Are These Children?<D>,<S> <CA>Op. 84<D>:<S> <I>No. 2<D>,<S> <N>A Laddie's Sang
+<N>Suite<S> <I>no 1<D>,<S> <CA>Op 72<D>:<S> <I>II<S> <N>Lamento<S> <D>-<S> <N>Lento rubato
+<N>Geheimes<D>,<S> <CA>D719
+<N>Sacred and Profane<D>,<S> <CA>Op. 91<D>:<S> <I>I.<S> <N>St Godric's Hymn
+<CO>Britten<D>:<S> <N>Holiday Diary<D>,<S> <CA>Op. 5<D>:<S> <I>III.<S> <N>Funfair
+<N>Symphony<S> <D>in<S> <K>D<S> <CA>No. 50<D>,<S> <CA>KV 161/163<D>:<S> <I>2.<S> <N>Andante
+<N>Rondo for Piano and Orchestra<S> <D>in<S> <K>A<D>,<S> <CA>K.386<S> <D>-<S> <V>Completion: Erik Smith/Alfred Brendel
+<CO>Bach, JS<D>:<S> <N>Herz und Mund und Tat und Leben<D>,<S> <CA>BWV 147<D>:<S> <I>No. 2<D>,<S> <N>Rezitativ.<S> <M>"<N>Gebenedeiter Mund!<M>"
+<N>Berenice<D>,<S> <CA>HWV 38<D>,<S> <I>Act II<D>:<S> <N>Minuet
+<N>Toy Symphony<D>:<S> <I>IV.<S> <N>Menuetto
+<N>Quintet<S> <I>No.5<S> <N>for Guitar and Strings<S> <D>in<S> <K>D<D>:<S> <I>4.<S> <N>Andantino pausato con variazioni<S> <D>-<S> <N>Allegro giusto
+<N>Don Giovanni<D>,<S> <CA>K. 527<D>:<S> <N>Overture
+<N>String Sextet<S> <I>No. 2<S> <D>in<S> <K>G Major<D>,<S> <CA>Op. 36<D>:<S> <I>I.<S> <N>Allegro non troppo
+<N>Le Nozze di Figaro<D>,<S> <CA>K. 492<D>:<S> <N>Overture
+<N>Berenice<D>,<S> <CA>HWV 38<D>,<S> <I>Act II<D>:<S> <N>Minuet
+<N>Symphony<S> <I>No. 4<S> <D>In<S> <K>B Flat<D>,<S> <CA>Op. 60<D>:<S> <I>3.<S> <N>Allegro vivace<S> <D>-<S> <V>1954 recording
+<CO>Beethoven<D>:<S> <N>Fantasia<S> <D>in<S> <K>C Minor<D>,<S> <CA>Op. 80<S> <M>"<N>Choral Fantasy<M>"<D>:<S> <I>II.<S> <M>(<I>d<M>)<S> <N>MarcIa, assai vivace<S> <D>-<S> <N>Allegro
+<N>Symphony<D>,<S> <I>No. 6<S> <D>in<S> <K>B Minor<D>,<S> <CA>Op. 74<D>,<S> <M>"<N>Pathétique<M>"<D>:<S> <I>II.<S> <N>Allegro Con Grazia
+<N>Hölderlin Fragmente for Voice and Orchestra<D>:<S> <I>Fragment 4<S> <D>-<S> <N>Lied des Schweden
+<N>Matthäus-Passion<D>,<S> <CA>BWV 244<D>,<S> <I>Pt. 2<D>:<S> <I>No. 36c-d<D>,<S> <N>Recit. & Chorus.<S> <N>Da speieten sie aus in sein Angesicht – Weissage uns, Christe<S> <M>(<O>Evangelist, Chorus I/II<M>)
+<N>Water Music<S> <M>(<O>1988<S> <D>-<S> <V>Remaster<M>)<D>:<S> <I>VI.<S> <N>Allegro decisio
+<N>Boris Godunov<D>:<S> <N>Opera in Four Acts With a Prologue<S> <M>(<V>Highlights<M>)<D>:<S> <I>Act I, Scene 2<D>:<S> <M>"<N>And his age... and his age...<M>"
+<N>Symphony<S> <I>No. 32<S> <D>in<S> <K>G Major<D>,<S> <CA>K. 318<D>:<S> <I>I.<S> <N>Allegro spiritoso
+<N>The Four Seasons, Spring, Violin Concerto<S> <D>in<S> <K>E Major<D>,<S> <CA>Op. 8/1<D>,<S> <CA>RV 269<D>:<S> <I>II.<S> <N>Largo e pianissimo sempre
+<N>Cavalleria rusticana<D>:<S> <N>Intermezzo
+<N>The Ghost<S> <M>(<N>Suite<D>,<S> <I>No. 3<M>)
+<N>24 Preludes<D>,<S> <CA>Op. 34<D>:<S> <I>No. 10<S> <D>in<S> <K>C-Sharp Minor
+<CO>Shostakovich<D>:<S> <N>Symphony<S> <I>No. 15<S> <D>in<S> <K>A Major<D>,<S> <CA>Op. 141<D>:<S> <I>III.<S> <N>Allegretto<S> <D>-<S> <V>Live
+<N>Symphony<S> <I>No. 9<S> <D>in<S> <K>E-Flat Major<D>,<S> <CA>Op. 70<D>:<S> <I>II.<S> <N>Moderato<S> <M>(<V>Live in Guangzhou<M>)
+<N>Violin Concerto<S> <I>No. 1<S> <D>in<S> <K>A Minor<D>,<S> <CA>Op. 99<S> <M>(<O>Formerly Op. 77<M>)<D>:<S> <I>1.<S> <N>Nocturne. Moderato
+<N>Suite for Variety Orchestra<D>:<S> <I>VI.<S> <N>Waltz<S> <I>No. 1
+<N>8 Preludes<D>,<S> <CA>Op. 2<D>:<S> <I>No. 4<S> <D>in<S> <K>E Minor<D>.<S> <N>Allegro moderato
+<CO>Shostakovich<D>:<S> <N>Symphony<S> <I>No. 15<S> <D>in<S> <K>A Major<D>,<S> <CA>Op. 141<D>:<S> <I>I.<S> <N>Allegretto
+<N>Violin Concerto<S> <I>No. 1<S> <D>in<S> <K>A Minor<D>,<S> <CA>Op. 99<D>:<S> <I>IV.<S> <N>Burlesca
+<N>Concerto for Cello and Orchestra<S> <I>No. 1<S> <D>in<S> <K>E Flat<D>,<S> <N>Allegro con moto
+<N>Symphonic Metamorphoses On Themes By Weber<D>:<S> <I>III.<S> <N>Andantino
+<N>Ein Heldenleben<S> <M>(<N>A Hero's Life<M>)<D>,<S> <CA>Op. 40<D>,<S> <CA>TrV 190<D>:<S> <N>Des Helden Gefahrtin<S> <M>(<N>The Hero's Companion<M>)<S> <D>-
+<N>Der Rosenkavalier<D>,<S> <CA>Op. 59<S> <D>-<S> <I>Act 1<D>:<S> <N>Introduction
+<N>Die schweigsame Frau<D>,<S> <CA>Op. 80<D>,<S> <CA>TrV 265<D>:<S> <N>Potpourri
+<N>Violin Sonata<S> <D>in<S> <K>E-Flat Major<D>,<S> <CA>Op. 18<D>,<S> <CA>TrV 151<D>:<S> <I>I.<S> <N>Allegro, ma non troppo
+<N>Die Frau ohne Schatten<D>,<S> <CA>Op. 65<D>,<S> <CA>TrV 234<S> <D>/<S> <I>Act 2<D>:<S> <N>Wer da?<S> <D>-<S> <V>Live
+<N>Die Liebe der Danae<D>,<S> <CA>Op. 83<D>,<S> <CA>TrV 278<D>,<S> <I>Act III<D>:<S> <N>So führ ich dich mit sanfter Hand
+<N>Capriccio<D>,<S> <CA>Op. 85<D>,<S> <I>Final Scene<D>:<S> <N>Mondscheinmusik. Andante con moto
+<N>Ein Heldenleben<D>,<S> <CA>Op. 40<D>:<S> <I>No. 2<D>,<S> <N>Des Helden Widersacher
+<N>Eine Alpensinfonie<D>,<S> <CA>Op. 64<D>:<S> <I>X.<S> <N>Durch Dickicht und Gestrüppp auf Irrwegen
+<CO>Dvořák<D>:<S> <N>Czech Suite<S> <D>in<S> <K>D Major<D>,<S> <CA>Op. 39<D>,<S> <CA>B. 93<D>:<S> <I>V.<S> <N>Finale. Furiant
+<CO>Dvořák<D>:<S> <N>Violin Concerto<S> <D>in<S> <K>A Minor<D>,<S> <CA>Op. 53<D>,<S> <CA>B. 108<D>:<S> <I>II.<S> <N>Adagio ma non troppo
+<N>Cello Concerto<S> <D>in<S> <K>B Minor<D>,<S> <CA>Op. 104<D>:<S> <I>III.<S> <N>Finale. Allegro moderato
+<N>Humoresque<S> <D>in<S> <K>F-Sharp Major<D>,<S> <CA>B. 138
+<CO>Antonín Dvořák<D>:<S> <N>Symfonie<S> <I>Č. 4<S> <K>d moll<D>,<S> <CA>Op. 13<D>:<S> <I>III.<S> <N>Scherzo. Allegro feroce
+<N>Legends<D>,<S> <CA>B. 122<D>:<S> <I>VI.<S> <N>Allegro con moto
+<N>Symphony<S> <I>No. 6<S> <D>in<S> <K>D Major<D>,<S> <CA>Op. 60<D>,<S> <CA>B. 112<D>:<S> <I>I.<S> <N>Allegro non tanto
+<N>Violoncello Concerto<S> <D>in<S> <K>B Minor<D>,<S> <CA>Op. 104<D>:<S> <I>I.<S> <N>Allegro
+<N>Theme and Variations<S> <D>in<S> <K>A-Flat Major<D>,<S> <CA>Op. 36<D>,<S> <CA>B. 65<D>:<S> <I>Variation 3<D>:<S> <N>Poco meno mosso
+<N>In Nature's Realm<S> <D>in<S> <K>F Major<D>,<S> <CA>Op. 91<D>,<S> <CA>B. 168
+<N>Piano Concerto<S> <I>No. 19<S> <D>in<S> <K>F<D>,<S> <CA>K.459<D>:<S> <I>1.<S> <N>Allegro vivace
+<N>Symphony<S> <I>No. 41<S> <D>in<S> <K>C Major<D>,<S> <CA>K. 551<S> <M>"<N>Jupiter<M>"<D>:<S> <I>I.<S> <N>Allegro vivace
+<N>12 German Dances<D>,<S> <CA>WoO 8<D>:<S> <I>8.<S> <N>German Dance<S> <D>in<S> <K>A Major
+<N>Solomon<D>,<S> <CA>HWV 67<D>,<S> <I>Act III<D>:<S> <N>The Arrival of the Queen of Sheba
+<N>Le Nozze di Figaro<D>,<S> <CA>K. 492<D>:<S> <N>Overture
+<N>Fantasia on Greensleeves
+<N>Orchestral Suite<S> <I>No. 3<S> <D>in<S> <K>D Major<D>,<S> <CA>BWV 1068<D>:<S> <I>II.<S> <N>Air
+<N>12 Minuets<D>,<S> <CA>WoO 7<D>:<S> <I>11.<S> <N>Minuet<S> <D>in<S> <K>C Major
+<N>The Fairy Queen<D>,<S> <CA>Z. 629<S> <M>(<V>Excerpts<M>)<D>:<S> <N>Symphony III
+<CO>Grieg<D>:<S> <N>Holberg Suite<D>,<S> <CA>Op. 40<D>:<S> <I>I.<S> <N>Praeludium
+<N>String Quintet<S> <I>No. 2<S> <D>in<S> <K>B-Flat Major<D>,<S> <CA>Op. 87<D>,<S> <CA>MWV R 33<D>:<S> <I>I.<S> <N>Allegro vivace
+<N>Sinfonia<S> <I>No. 8<S> <D>in<S> <K>D Major<D>,<S> <CA>MWV N8<S> <M>(<V>version for strings<M>)<D>:<S> <I>I.<S> <N>Adagio e grave<S> <D>-<S> <N>Allegro
+<N>Lieder ohne Worte<D>,<S> <CA>Op. 102<D>:<S> <I>IV.<S> <N>Un poco agitato<S> <D>in<S> <K>G Minor
+<N>String Symphony<S> <I>No. 11<S> <D>in<S> <K>F Major<D>,<S> <CA>MWV N11<D>:<S> <I>IV.<S> <N>Menuetto. Allegro moderato
+<N>The Hebrides<D>,<S> <CA>Op. 26<D>,<S> <CA>MWV P7<S> <M>"<N>Fingal's Cave<M>"
+<N>Sechs Präludien und Fugen für Klavier<S> <D>in<S> <K>D Major<D>,<S> <CA>Op. 35<D>,<S> <I>No. 2
+<N>6 Lieder<D>,<S> <CA>Op. 71<D>:<S> <I>No. 2.<S> <N>Fruhlingslied
+<N>Symphony<S> <I>No. 5<S> <D>in<S> <K>D Minor<D>,<S> <CA>Op. 107<D>,<S> <CA>MWV N 15<S> <M>"<N>Reformation<M>"<D>:<S> <I>I.<S> <N>Andante<S> <D>-<S> <N>Allegro con fuoco
+<N>Piano Sonata<S> <D>in<S> <K>E Major<D>,<S> <CA>Op. 6, MWV U 54<D>:<S> <I>III.<S> <N>Adagio e senza tempo
+<N>Fugue<S> <D>in<S> <K>A Minor<D>,<S> <CA>MWV U 33<S> <M>(<O>Fragment<M>)
+<N>Piano Sonata<S> <I>No. 13<S> <D>in<S> <K>C Major<D>,<S> <CA>Hob. XVI:6<D>:<S> <I>I.<S> <N>Allegro
+<CO>Haydn<D>:<S> <N>Orfeo ed Euridice<D>:<S> <N>Amar puo l'eta canuta<S> <D>-<S> <I>Act Two
+<N>String Quartets<D>,<S> <CA>Op. 33<D>,<S> <I>No. 2<S> <D>in<S> <K>E-Flat Major<D>,<S> <CA>Hob. III:38<S> <M>"<N>The Russian Quartets<M>"<D>:<S> <I>III.<S> <N>Largo sostenuto
+<N>Die Jahreszeiten<S> <M>(<N>the Seasons<M>)<D>,<S> <CA>Hob. XXI:3<D>:<S> <N>Der Herbst<S> <M>[<N>Autumn<M>]<D>:<S> <N>Recitative.<S> <N>Hier treibt ein dichter Kreis<S> <M>[<O>Lukas<M>]
+<N>The Braes of Ballenden<D>,<S> <CA>Hob. XXXIa:200bis
+<N>Concerto<S> <I>No. 1<S> <D>in<S> <K>C Major<S> <N>for Cello and Orchestra<D>,<S> <CA>Hob. VIIb:1<D>:<S> <I>II.<S> <N>Adagio
+<O><BICENTENNIAL MAN><S> <N>Symphony<S> <I>No.73<S> <D>in<S> <K>D major<S> <M>“<N>La Chasse<M>”<D>/<S> <I>2nd mov.<D>:<S> <N>Andante<S> <M>(<CO>Haydn<M>)
+<CO>Haydn<S> <N>Barytontrio<S> <I>Nr.102<S> <D>in<S> <K>G Major<S> <I>3.<S> <N>Finale<S> <M>(<N>Presto<M>)
+<N>Symphony<S> <D>in<S> <K>C<D>,<S> <CA>H.I No. 56<D>:<S> <I>3.<S> <N>Menuet<S> <D>-<S> <N>Trio
+<N>Finale
+<N>ミクロコスモス 第6巻<D>:<S> <I>152.<S> <N>ブルガリアのリズムによる6つの舞曲
+<N>44 Duos for 2 Violins<D>,<S> <CA>BB 104<D>,<S> <I>Vol. 2<D>:<S> <I>No. 24.<S> <N>Trefas nota<S> <M>(<N>Gay song<M>)
+<N>Music for Strings, Percussion & Celesta<D>,<S> <CA>Sz. 106<D>:<S> <I>III.<S> <N>Adagio
+<N>Improvisations sur des chansons paysannes hongroises<S> <CA>BB 83<D>,<S> <CA>Op. 20<D>:<S> <I>IV.<S> <N>Allegretto scherzando
+<N>Out of Doors<D>,<S> <CA>Sz. 81<D>:<S> <I>II.<S> <N>Barcorolla
+<N>Romanian Folk Dances<D>,<S> <CA>Sz. 56<D>,<S> <CA>BB 68<D>:<S> <I>V.<S> <N>Poarga Românească<S> <D>-<S> <V>transcribed for flute and guitar by Arthur Levering
+<N>Piano Concerto<S> <I>No. 3<D>,<S> <CA>BB 127<S> <M>(<CA>Sz.119<M>)<D>:<S> <I>3.<S> <N>Allegro vivace
+<N>2 Portre<S> <M>(<N>2 Portraits<M>)<D>,<S> <CA>Op. 5<D>,<S> <CA>BB 48b<D>:<S> <N>Ket portre<S> <M>(<N>Two Portraits<M>)<D>:<S> <I>No. 1<D>,<S> <N>Egy idealis<S> <M>(<N>One Ideal<M>)
+<CO>Bartok<S> <N>Sonata for Solo Violin<S> <M>(<O>1944<M>)<D>:<S> <N>Tempo di ciaccona
+<N>Mikrokosmos<D>,<S> <CA>Sz. 107<S> <D>-<S> <I>Book 4<D>:<S> <I>No. 98<S> <N>Thumb under
+<N>Symphony<S> <I>No. 9<S> <D>in<S> <K>C Major<D>,<S> <CA>D. 944<D>:<S> <I>III.<S> <N>Scherzo. Allegro vivace
+<N>Le nozze di Figaro<D>,<S> <CA>Op. K 492<D>,<S> <I>Act 3<D>:<S> <N>Ecco la marcia!....amanti! costanti!
+<N>Madama Butterfly<D>,<S> <I>Act III<D>:<S> <N>Io so che alle sue pene – Addio, fiorito asil
+<CO>Mozart<D>:<S> <N>Horn Concerto<S> <I>No. 4<S> <D>in<S> <K>E-Flat Major<D>,<S> <CA>K. 495<D>:<S> <I>II.<S> <N>Romance. Andante cantabile
+<N>Così fan tutte<D>,<S> <CA>K. 588<D>,<S> <I>Act II<D>:<S> <N>Recitativo.<S> <M>"<N>Vittorio, padroncini!<M>"<S> <M>(<O>Despina, Ferrando, Guglielmo, Don Alfonso<M>)
+<N>Hungarian Dances<D>,<S> <CA>WoO 1<D>:<S> <I>No. 6<S> <D>in<S> <K>D Major<D>.<S> <N>Vivace<S> <M>(<V>Orch. Parlow<M>)
+<N>Pelléas et Mélisande, Suite<D>,<S> <CA>Op. 46<D>:<S> <I>V.<S> <N>The Three Blind Sisters
+<N>Symphony<S> <I>No. 4<S> <D>in<S> <K>D Minor<D>,<S> <CA>Op. 120<D>:<S> <I>II.<S> <N>Romanze. Ziemlich langsam
+<N>Du gamla, du fria<S> <M>(<O>National Anthem of Sweden<M>)
+<N>Orfeo ed Euridice<D>,<S> <CA>Wq. 30<D>,<S> <I>Act II<D>:<S> <N>Dance of the Blessed Spirits. Andante - Melody - Da capo
+<N>Sakura
+<N>A Child of Our Time<D>,<S> <I>Part II<D>:<S> <N>The boy sings in his prison. My dreams are all shattered<S> <M>(<O>Tenor<M>)
+<N>Le sacre du printemps<S> <M>(<N>The Rite of Spring<M>)<D>,<S> <I>Part II<D>:<S> <N>Glorification of the Chosen One
+<N>Ring Those Bells<S> <O>;<S> <N>Carol of Hte Bells<S> <O>;<S> <N>I Heard the Bells On Christmas Day<S> <O>;<S> <N>Come On, Ring Those Bells
+<N>Piano Concerto<S> <I>No. 3<S> <D>in<S> <K>C minor<D>,<S> <CA>Op. 37<D>:<S> <I>2.<S> <N>Largo
+<N>Clarinet concerto<S> <D>in<S> <K>A Major<D>,<S> <CA>K. 622<D>:<S> <I>II.<S> <N>Adagio
+<N>The Golden Cockerel, Suite<S> <M>(<V>Compl. Glazunov & Steinberg<M>)<D>:<S> <I>I.<S> <N>Tsar Dodon in His Palace
+<N>Symphony<S> <I>No. 8<S> <D>in<S> <K>F Major<D>,<S> <CA>Op. 93<D>:<S> <I>III.<S> <N>Tempo di Menuetto
+<N>La Mer<D>,<S> <CA>L. 109<D>:<S> <I>I.<S> <N>De l'aube à midi sur la mer
+<N>Clarinet Concerto
+<N>Trio<S> <D>in<S> <K>E-Flat Major<D>,<S> <CA>Op. 40<D>:<S> <I>IV.<S> <N>Allegro con brio
+<N>Violin Sonata<S> <I>No. 2<S> <D>in<S> <K>A Major<D>,<S> <CA>Op. 100<D>:<S> <I>II.<S> <N>Andante tranquillo<S> <D>-<S> <N>Vivace
+<N>11 Chorale Preludes<D>,<S> <CA>Op. 122<S> <M>(<V>arr. Thomson<M>)<D>:<S> <I>No. 9.<S> <N>Herzlich tut mich verlangen
+<N>Variations and Fugue on a Theme by Handel<D>,<S> <CA>Op. 24<D>:<S> <I>Variation VII<S> <D>-<S> <V>Live
+<N>Violin Concerto<S> <D>in<S> <K>D Major<D>,<S> <CA>Op. 77<D>:<S> <I>I.<S> <N>Adagio
+<N>Nänie<D>,<S> <CA>Op. 82<D>:<S> <N>Nanie<D>,<S> <CA>Op. 82
+<N>21 Hungarian Dances<D>,<S> <CA>WoO 1<D>:<S> <I>No. 1<D>,<S> <N>Allegro molto
+<N>Sonate pour violoncelle et piano<S> <I>No. 1<S> <D>in<S> <K>E Minor<D>,<S> <CA>Op. 38<D>:<S> <I>I.<S> <N>Allegro non troppo
+<N>String Quartet<S> <I>No. 3<S> <D>in<S> <K>B-Flat Major<D>,<S> <CA>Op. 67<D>:<S> <I>IV.<S> <N>Poco allegretto con Variazioni
+<N>Die Schwälble<D>,<S> <CA>Op. 7<D>,<S> <I>No. 4
+<N>忧郁<D>,<S> <CA>Op. 65<D>,<S> <I>No. 3<S> <D>-<S> <N>格里格钢琴作品集
+<N>Old Norwegian Romance<D>,<S> <CA>Op. 51<D>:<S> <N>Tempo di Valse
+<N>Lyric Pieces<D>,<S> <CA>Op. 12<D>:<S> <I>6.<S> <N>Norwegian
+<N>Lyric Suite<D>,<S> <CA>Op. 54<D>:<S> <I>III.<S> <N>Nocturne
+<N>Peer Gynt Suite<S> <I>No. 2<D>,<S> <CA>Op. 55<D>:<S> <I>I.<S> <N>Plainte d'Ingrid
+<N>Lyric Pieces<D>,<S> <I>Book IX<D>,<S> <CA>Op. 68
+<N>Norwegian Peasant Dances<D>,<S> <CA>Op. 72<D>:<S> <I>No. 3<D>,<S> <N>Bridal March from Telemark
+<N>Lyric Pieces<D>,<S> <I>Book 10<D>,<S> <CA>Op. 71<D>:<S> <N>Efterklang<S> <M>(<N>Remembrances<M>)
+<N>Peer Gynt<D>,<S> <CA>Op. 23<D>,<S> <I>Act IV<D>:<S> <I>No. 13<D>,<S> <N>Prelude. Morning Mood
+<N>Norwegian Dances<D>,<S> <CA>Op. 35<D>:<S> <I>III.<S> <N>Allegro moderato alla marcia<S> <D>in<S> <K>G Major
+<N>D' Hauptsach<S> <M>(<V>Arr. M. Rot<M>)
+<N>Gypsy Baron Overture
+<N>Champain<D>:<S> <N>Polka<S> <CA>Op. 211
+<N>Kaiser-Walzer<S> <M>(<N>Emperor Waltz<M>)<D>,<S> <CA>Op. 437
+<N>Be Embraced, Millions<D>,<S> <CA>Op. 443
+<N>Geschichten aus dem Wienerwald<D>,<S> <CA>Op. 325
+<N>Overture<S> <M>"<N>Die Fledermaus<M>"
+<N>Champagne-Polka<D>,<S> <CA>Op. 211<D>:<S> <N>Polka
+<N>An Artist's Life<D>,<S> <N>Waltz<S> <CA>Op. 316
+<N>Frühlingstimmen<D>,<S> <CA>Op. 410
+<CO>Bach, JS<D>:<S> <N>Concerto for 2 Harpsichords<S> <D>in<S> <K>C Major<D>,<S> <CA>BWV 1061<D>:<S> <I>II.<S> <N>Adagio
+<CO>Bach, JS<D>:<S> <N>Weihnachtsoratorium<D>,<S> <CA>BWV 248<D>,<S> <I>Pt. 2<D>:<S> <I>No. 11<D>,<S> <N>Rezitativ.<S> <M>"<N>Und es waren Hirten in derselben Gegend<M>"
+<N>Cantata<S> <M>"<N>Geist und Seele wird verwirret<M>"<D>,<S> <CA>BWV 35<D>,<S> <I>Prima Parte<D>:<S> <N>Aria<S> <M>"<N>Gott hat alles wohlgemacht<M>"
+<N>Goldberg Variations<D>,<S> <CA>BWV 988<D>:<S> <I>Var. 5<S> <N>a 1 ovvero 2 Clav.
+<N>Vater unser im Himmelreich<D>,<S> <CA>BWV 760<S> <M>(<V>Arr. Rummel for Piano<M>)
+<N>The Art of Fugue<D>,<S> <CA>BWV 1080<D>:<S> <N>Contrapunctus 8
+<N>Weihnachts-Oratorium<D>,<S> <CA>BWV 248<D>,<S> <I>Pt. 1<D>:<S> <I>Pt. IV<D>:<S> <N>Recitative with Chorale. Immanuel, o susses Wort<S> <M>(<O>Bass, Soprano<M>)
+<N>Goldberg Variations<D>,<S> <CA>BWV 988<D>:<S> <I>Var. 6<D>,<S> <N>Canone alla seconda
+<CO>J.S. Bach<D>:<S> <N>Partitas<S> <D>-<S> <CA>BWV 825 - 830
+<N>Cello Suite<S> <I>No. 6<S> <D>in<S> <K>D Major<D>,<S> <CA>BWV 1012<D>:<S> <I>VIII.<S> <N>Gigue
+<N>Lieutenant Kijé Suite<D>,<S> <CA>Op. 60<D>:<S> <I>II.<S> <N>Romance
+<N>Sarcasms<D>,<S> <CA>Op. 17<D>,<S> <I>I.<S> <N>Tempestoso<S> <O>&<S> <I>II.<S> <N>Allegro rubato
+<N>Visions Fugitives<D>,<S> <CA>Op. 22<D>:<S> <I>18.<S> <N>Con una dolce lentezza
+<N>The Love for the Three Oranges<D>,<S> <CA>Op. 33<D>,<S> <I>No. 3<S> <N>March
+<N>Romeo and Juliet<D>,<S> <CA>Op. 64<D>,<S> <I>Act I Scene 1<D>:<S> <I>No. 3<D>,<S> <N>The Street Awakens
+<N>Symphony<S> <I>NO. 1<S> <D>in<S> <K>D Minor<D>,<S> <CA>Op. 25<D>:<S> <I>II.<S> <N>Intermezzo. Larghetto
+<N>Symphony<D>,<S> <N>Concerto<S> <D>In<S> <K>E Minor<D>,<S> <CA>Op. 125<D>:<S> <I>III<S> <N>Andante con moto<S> <D>-<S> <N>Allegretto<S> <D>-<S> <N>Allegro marcato
+<N>Visions fugitives<D>,<S> <CA>Op. 22<S> <M>(<V>Excerpts Orch. R. Barshai<M>)<D>:<S> <I>XI.<S> <N>Con vivacità
+<N>Suite from Lieutenant Kijé<D>,<S> <CA>Op. 60<D>:<S> <N>Kijé's Birth
+<N>Symphony<S> <I>No.5<S> <D>in<S> <K>B-flat major<D>,<S> <CA>op.100<D>/<S> <I>3.<S> <N>Adagio
+<N>Iris<D>:<S> <N>Iris<D>:<S> <N>La piovra
+<N>Lord of Our Life and God of Our Salvation
+<N>Altwiener Tanzweisen<S> <M>(<V>arr. for violin and strings<M>)<D>:<S> <I>No. 2.<S> <N>Liebesleid
+<N>Cunctipotens genitor Deus
+<N>My heartly service
+<N>Las vacas
+<N>Gagliarda<S> <M>(<V>Arr. R. Budasz<M>)
+<N>Cello Suite<S> <I>No. 1<S> <D>in<S> <K>G Major<D>,<S> <CA>BWV 1007<D>:<S> <I>VI.<S> <N>Gigue<S> <M>(<V>arr. for violin and piano<M>)
+<N>Goldberg Variations<D>,<S> <CA>BWV 988<S> <M>(<V>arr. for percussion ensemble<M>)<D>:<S> <I>Variatio 20.<S> <N>a 2 Clav.
+<N>Nunc Sancte nobis Spiritus. Deduc me
+<N>Sonata (Trio)<S> <D>in<S> <K>B flat<D>,<S> <CA>K.266<D>:<S> <I>1.<S> <N>Adagio
+<N>Piano Sonata<S> <D>in<S> <K>B-Flat Major<D>,<S> <CA>K. 333<D>:<S> <I>II.<S> <N>Andante cantabile
+<N>Symphony<S> <I>No. 41<S> <D>in<S> <K>C Major<D>,<S> <CA>K. 551<D>:<S> <I>I.<S> <N>Allegro vivace
+<CO>Mozart<D>:<S> <N>Die Entführung aus dem Serail<D>,<S> <I>Act 2<D>:<S> <M>"<N>Ist das ein Traum?<M>"<S> <M>(<O>Selim<M>)
+<CO>Mozart<D>:<S> <N>Piano Concerto<S> <I>No. 8<S> <D>in<S> <K>C Major<D>,<S> <CA>K. 246<S> <M>"<N>Lûtzow<M>"<D>:<S> <I>III.<S> <N>Rondeau. Tempo di menuetto
+<N>Flute Concerto<D>,<S> <CA>K. 314<D>:<S> <I>I.<S> <N>Allegro aperto
+<N>Oboe Concerto<S> <D>in<S> <K>C Major<D>,<S> <CA>KV. 314 (285d)<D>:<S> <I>II.<S> <N>Andante ma non troppo
+<N>Horn Concerto<S> <I>No. 4<S> <D>in<S> <K>E-Flat Major<D>,<S> <CA>K. 495<D>:<S> <I>I.<S> <N>Allegro moderato
+<N>Sonata for Piano Duet<S> <D>in<S> <K>D<D>,<S> <CA>K. 358<S> <I>III.<S> <N>Molto Presto
+<N>La finta semplice<D>,<S> <CA>K.51<S> <D>/<S> <I>Act 2<D>:<S> <M>"<N>Me ne vo' prender spasso<M>"
+<N>Sonatine bureaucratique<D>:<S> <I>III.<S> <N>Vivace
+<N>Cinq Grimaces pour le songe d'une nuit d'été<D>:<S> <I>II.<S> <N>Coquecigrue
+<N>Vexations<D>:<S> <N>Vexations<S> <M>(<O>performance 85<M>)
+<CO>Erik Satie<S> <N>Gnossienne<S> <I>N°1<S> <N>Another World II
+<N>Sports et divertissements<D>:<S> <I>No. 6<D>,<S> <N>Colin-maillard
+<N>Trois Véritables préludes flasques
+<N>3 Gymnopédies<D>,<S> <I>No. 1<D>:<S> <N>Lent et douloureux
+<N>Gymnopédies<S> <I>No. 1
+<N>La belle excentrique<S> <M>"<N>Serious Fantasy<M>"<D>:<S> <I>IV.<S> <N>Cancan grand-mondain
+<N>Vexations<D>:<S> <N>Vexations<S> <M>(<O>performance 838<M>)
+<CO>Saint-Saëns<D>:<S> <N>Samson et Dalila<D>,<S> <CA>Op. 47<D>,<S> <I>Act 2<D>:<S> <M>"<N>Mon cœur s'ouvre à ta voix<M>"<S> <M>(<O>Dalila<M>)
+<N>Faust<D>:<S> <N>O Merveille!
+<N>Der Bajazzo<D>:<S> <N>Jetzt Spielen<S> <D>-<S> <N>Hüll Dich In Tand Nur
+<N>Le Carnaval des Animaux<S> <D>-<S> <V>Paraphrase by Godowsky<D>:<S> <I>XIII<S> <N>The Swan
+<N>Le carnaval des animaux<D>,<S> <CA>R. 125<D>:<S> <I>XII.<S> <N>Fossiles
+<N>Le Carnaval des Animaux<D>,<S> <CA>R. 125<D>:<S> <I>7.<S> <N>Aquarium
+<N>Ave Verum corpus<S> <CA>Op. 2/1
+<N>Le carnaval des Animaux<D>,<S> <CA>R. 125<D>:<S> <I>XIII.<S> <N>Le Cygne
+<N>Cello Concerto<S> <I>No. 1<S> <D>in<S> <K>A Minor<D>,<S> <CA>Op. 33<S> <D>-<S> <I>I.<S> <N>Allegro
+<N>Suite for Cello and Orchestra<D>,<S> <CA>Op.16<D>:<S> <I>4.<S> <N>Romance<S> <M>(<N>molto adagio<M>)
+<N>Tintagel
+<N>Smoke Gets in Your Eyes
+<N>5 Etudes-tableaux<D>,<S> <CA>P. 160<D>:<S> <N>5 Etudes-tableaux<D>,<S> <CA>P. 160<S> <D>-<S> <V>After Rachmaninov's Op. 33, No. 4
+<N>Capriccio espagnol<D>,<S> <CA>Op. 34<D>:<S> <I>I.<S> <N>Alborada<S> <D>-
+<CO>Shor<D>:<S> <N>The Well Tempered Chanson<D>:<S> <I>V.<S> <N>Last Penny
+<N>Hungarian Rhapsody<S> <I>No. 6<D>,<S> <CA>S. 244
+<N>Violin Concerto<S> <D>in<S> <K>D Major<D>,<S> <CA>Op. 35<D>:<S> <I>I.<S> <N>Allegro moderato
+<N>La Wally<D>,<S> <I>Act I<D>:<S> <N>Ebben? Ne andrò lontana<S> <M>[<N>La Wally, Drama lirica in quattro atti<M>]
+<N>Organ Concerto<S> <I>No. 6<S> <D>in<S> <K>B-Flat Major<D>,<S> <CA>HWV 294<D>,<S> <CA>Op. 4<D>:<S> <I>I.<S> <N>Andante allegro
+<N>Symphony<S> <I>No. 6<S> <D>in<S> <K>F Major<D>,<S> <CA>Op. 68<D>,<S> <M>"<N>Pastoral<M>"<D>:<S> <I>IV.<S> <N>Allegro
+<N>La Traviata<D>:<S> <N>Prelude To Act I
+<N>Serenade for String Orchestra<S> <D>in<S> <K>C Major<D>,<S> <CA>Op. 48<D>,<S> <CA>TH 48<D>:<S> <I>IV.<S> <N>Finale
+<N>The Nutcracker, Suite<D>,<S> <CA>Op. 71a<D>:<S> <I>II.<S> <N>Danses caractéristiques. Danse russe
+<N>The Sorceress<D>,<S> <CA>TH 9<D>:<S> <N>Danse des histrions et scène
+<N>Souvenir d'un lieu cher<S> <CA>Op.42<D>:<S> <I>No.2<S> <N>Scherzo
+<CO>Tchaikovsky<D>:<S> <N>String Quartet<S> <I>No. 1<S> <D>in<S> <K>D Major<D>,<S> <CA>Op. 11<D>:<S> <I>I.<S> <N>Moderato e simplice
+<N>The Nutcracker<D>,<S> <CA>Op. 71<D>,<S> <I>Act I, Scene I<D>:<S> <I>6.<S> <N>Clara and the Nutcracker
+<N>The Sleeping Beauty<D>,<S> <CA>Op. 66<D>,<S> <I>Act 3<D>:<S> <N>Grand Polinaise Dansee
+<N>The Seasons<D>,<S> <CA>Op. 37a<D>:<S> <I>X.<S> <N>October, The Autumn Song
+<N>Coda 2 Medium<S> <M>(<O>From<S> <M>"<N>Swan Lake<M>"<D>,<S> <CA>Op. 20<D>:<S> <I>Act III<M>)
+<N>Piano Sonata<S> <I>No. 27<S> <D>in<S> <K>E Minor<D>,<S> <CA>Op. 90<D>:<S> <I>II.<S> <N>Nicht zu geschwind und sehr singbar
+<N>25 Scottish Songs<D>,<S> <CA>Op. 108<D>:<S> <I>No. 25<S> <N>Sally in Our Alley
+<N>Sonata<S> <I>No. 32<S> <D>in<S> <K>C Minor<D>,<S> <CA>Op. 111<S> <M>(<O>1821-22<M>)<D>.<S> <N>Maestoso, Allegro con brio ed appassionato
+<N>Piano Trio<S> <D>in<S> <K>E-Flat Major<D>,<S> <CA>Op. 70, 2<D>:<S> <I>II.<S> <N>Allegretto
+<N>String Quartet<S> <I>No. 9<S> <D>in<S> <K>C Major<D>,<S> <CA>Op. 59 No. 3<S> <M>"<N>Razumovsky<S> <I>No. 3<M>"<D>:<S> <I>III.<S> <N>Minuetto. Grazioso
+<N>Piano Sonata<S> <I>No. 5<S> <D>in<S> <K>C Minor<D>,<S> <CA>Op. 10 No. 1<D>:<S> <I>II.<S> <N>Adagio molto
+<N>Symphony<S> <I>No. 7<S> <D>in<S> <K>A Major<D>,<S> <CA>Op. 92<D>:<S> <I>II.<S> <N>Allegretto
+<N>Fifteen Variations and Fugue on an Original Theme<S> <D>in<S> <K>E-Flat Major<D>,<S> <CA>Op. 35<S> <M>"<N>Eroica<M>"<D>:<S> <I>Variation V
+<N>Klavierkonzert<S> <I>No. 4<S> <D>in<S> <K>G-Dur<D>,<S> <CA>Op. 58<D>:<S> <I>I.<S> <N>Allegro moderato<S> <D>-<S> <I>Teil 1
+<N>25 Irish Songs<D>,<S> <CA>WoO 152<D>:<S> <I>XIII.<S> <N>Musing on the Roaring Ocean
+<N>3 Klavierstücke<D>,<S> <CA>D. 946<D>:<S> <I>No. 1<D>,<S> <N>Allegro assai
+<N>Sonatina for Violin and Piano<S> <I>No. 1<S> <D>in<S> <K>D<D>,<S> <CA>D.384<D>:<S> <I>3.<S> <N>Allegro vivace
+<N>6 Moments musicaux<D>,<S> <CA>Op. 94<D>,<S> <CA>D. 780<D>:<S> <I>No. 6<S> <D>in<S> <K>A-Flat Major<D>:<S> <N>Allegretto
+<N>4 Impromptus<D>,<S> <CA>Op. 90<D>,<S> <CA>D. 899<D>:<S> <I>I.<S> <N>Allegro molto moderato
+<N>La truite<D>,<S> <CA>D. 550<S> <D>-<S> <V>Arranged for Voice and Orchestra
+<N>Piano Sonata<S> <D>in<S> <K>A Major<D>,<S> <CA>D. 959<D>:<S> <I>II.<S> <N>Andantino
+<N>Wandererfantasie<D>,<S> <CA>S. 366<D>:<S> <I>II.<S> <N>Adagio
+<N>Ave Maria<S> <D>in<S> <K>B-Flat Major<D>,<S> <CA>D. 839
+<N>Der Musensohn<D>,<S> <CA>D.764
+<N>Fantasy<S> <D>in<S> <K>C Major<D>,<S> <CA>Op. 15<D>,<S> <CA>D. 760<S> <M>"<N>Wanderer<M>"<D>:<S> <I>III.<S> <N>Presto
+<N>La Favorita<D>:<S> <I>Act III<D>,<S> <M>"<N>A Lei son presso alfine<M>"
+<N>Il diluvio universale<D>,<S> <I>Act I<D>:<S> <I>Act I Scene 8<D>:<S> <N>Taccion finanche l'aure!<S> <M>(<O>Sela, Noe<M>)
+<N>L'Elisir d'Amore<D>:<S> <I>Act II<S> <D>-<S> <M>"<N>Una Furtiva Lagrima<M>"
+<N>Don Pasquale<D>,<S> <CA>IGD 22<D>,<S> <I>Act I<D>:<S> <M>"<N>Vado, corro al gran cimento<M>"<S> <M>(<O>Norina, Malatesta<M>)
+<N>Lucia di Lammermoor<S> <D>/<S> <I>Act 3<D>:<S> <M>"<N>Oh meschina!<M>"
+<N>L'elisir d'amore<D>,<S> <I>Act II<D>:<S> <N>Una furtiva lagrima
+<N>Lucia di Lammermoor<S> <D>/<S> <I>Part 1<D>:<S> <M>"<N>Sulla tomba che rinserra<M>"<S> <D>-<S> <M>"<N>Verranno a te sull'aure<M>"
+<CO>Donizetti<D>:<S> <N>Il furioso all'isola di San Domingo<S> <D>-<S> <N>Raggio d'amor parea<S> <M>(<O>Low Voice<M>)<S> <M>[<V>Instrumental<M>]
+<N>Lucia di Lammermoor<S> <D>/<S> <I>Act 3<D>:<S> <N>Oh, giusto cielo!...Il dolce suono
+<N>Lucrezia Borgia<D>,<S> <CA>A 41<D>,<S> <CA>IGD 46<D>,<S> <I>Act I<D>:<S> <M>"<N>Soli, noi siamo<M>"<S> <M>(<O>Alfonso, Lucrezia<M>)
+<N>After a Dream<D>,<S> <CA>Op. 7<D>:<S> <I>No. 1
+<N>Rhapsody on a Theme of Paganini<D>,<S> <CA>Op. 43
+<N>Piano Quartet<S> <I>No. 1<S> <D>in<S> <K>C Minor<D>,<S> <CA>Op. 15<D>:<S> <I>IV.<S> <N>Allegro molto
+<N>Pelléas et Mélisande<D>,<S> <CA>Op. 80<D>:<S> <I>2.<S> <N>Fileuse. Andantino quasi Allegretto
+<N>Messe Basse<D>:<S> <I>2.<S> <N>Sanctus
+<N>Preludes<S> <D>in<S> <K>D-Flat Major<D>,<S> <CA>Op. 103<D>:<S> <N>Prelude<S> <I>No.1
+<N>Pelléas et Mélisande, suite<D>,<S> <CA>Op. 80<D>:<S> <N>Sicilienne
+<N>Pièce En Forme De Habanera<S> <D>-<S> <CO>Ravel
+<N>C'est l'extase<S> <I>No. 5<D>,<S> <CA>Op. 58
+<N>Pavane<D>,<S> <CA>Op. 50
+<N>Tafelmusik - Banquet Music In 3 Parts<S> <D>/<S> <I>Production 3<S> <D>-<S> <I>1.<S> <N>Ouverture<S> <D>-<S> <N>Suite<S> <D>In<S> <K>B Flat Major<D>,<S> <CA>TWV53:A2<D>:<S> <I>1.<S> <N>Ouverture: Lentement - Presto - Lentement
+<N>Jauchze, jubiliere und singe<D>,<S> <CA>TWV 15:5a<D>:<S> <I>No. 13<D>,<S> <N>Es bleibt indes dabei
+<N>Ouverture-Suite<S> <D>in<S> <K>C Major<D>,<S> <CA>TWV 55:C6<D>:<S> <I>III.<S> <N>Espagnol
+<N>Concerto for 2 Horns<S> <D>in<S> <K>F Major<D>,<S> <CA>TWV 52:F3<D>:<S> <I>II.<S> <N>Allegro
+<N>Packe dich, gelahmter Drache<D>,<S> <CA>TWV 1:1222<D>:<S> <N>Aria<D>:<S> <N>Packe dich, gelahmter Drache
+<N>Viola Concerto<S> <D>in<S> <K>G Major<D>,<S> <CA>TWV 51:G9<D>:<S> <I>I.<S> <N>Largo
+<N>Concerto for Recorder, Flute, Strings and Continuo<S> <D>in<S> <K>E Minor<D>:<S> <I>I.<S> <N>Largo
+<N>Ouverture-Suite<S> <D>in<S> <K>C Major<D>,<S> <CA>TWV 55:C6<D>:<S> <I>II.<S> <N>Harlequinade
+<N>Aus tiefer Not schrei ich zu dir
+<N>Overture (Suite)<S> <D>In<S> <K>D Major<D>,<S> <CA>TWV 55:D15<D>:<S> <I>VII.<S> <N>Gigue
+<N>Piano Concerto<S> <D>in<S> <K>A Minor<D>,<S> <CA>Op. 54<D>:<S> <I>I.<S> <N>Allegro affettuoso
+<N>Piano Sonata<S> <D>in<S> <K>C Major<D>,<S> <CA>Op. 118 No. 3<D>:<S> <I>II.<S> <N>Ausdrucksvoll
+<N>Arabesque<S> <M>(<N>"Arabeske"<M>)<S> <D>in<S> <K>C Major<D>,<S> <CA>Op. 18
+<N>태교 자장가<S> <D>-<S> <N>약이 올라서<S> <M>(<CO>슈만<M>)
+<N>Dichterliebe<D>,<S> <CA>Op. 48<D>:<S> <I>No. 15<D>,<S> <N>Aus alten Märchen
+<N>Kreisleriana<D>,<S> <CA>Op. 16<D>:<S> <I>VIII.<S> <N>Schnell und spielend
+<N>Kinderszenen<S> <CA>Op.15<S> <N>Gluckes Genug
+<N>Dichterliebe<D>,<S> <CA>Op. 48<D>:<S> <I>XI.<S> <N>Ein Jüngling liebt ein Mädchen<S> <M>(<V>Arr. for cello & guitar by Jerzy Chwastyk<M>)
+<N>Faschingsschwank aus Wien<D>,<S> <CA>Op. 26<D>:<S> <I>III.<S> <N>Scherzino
+<N>7 Piano Pieces in Fughetta Form<D>,<S> <CA>Op. 126<D>:<S> <I>III.<S> <N>Ziemlich bewegt
+<N>Concerto for Strings<S> <D>in<S> <K>F Minor<D>,<S> <CA>RV 143<D>:<S> <I>III.<S> <D>-
+<N>Concerto for 2 Violins and Strings<S> <D>in<S> <K>D Major<D>,<S> <CA>RV 512<D>:<S> <I>I.<S> <N>Allegro molto
+<N>Cello Sonata<S> <D>in<S> <K>A Minor<D>,<S> <CA>Op. 14, No. 3<D>,<S> <CA>RV 43<D>:<S> <I>I.<S> <N>Largo<S> <D>-<S> <V>VRT Muziek Edition
+<N>Mandolin Concerto<S> <D>in<S> <K>C<D>,<S> <CA>R.425<S> <D>-<S> <V>Arr. for Guitar, Strings and Continuo by Pepe Romero (b.1944)<D>:<S> <I>3.<S> <M>(<N>Allegro<M>)
+<N>The Four Seasons, Concerto<S> <I>No. 1<S> <D>in<S> <K>E Major<D>,<S> <CA>RV. 269<D>,<S> <CA>Op. 8 No. 1<S> <M>'<N>La primavera/Spring<M>'<D>:<S> <I>I.<S> <N>Allegro
+<N>Orlando furioso<D>,<S> <CA>RV 728<D>,<S> <I>Act II<D>:<S> <N>Chiara al pari di lucida Stella
+<N>Flute Concerto<S> <D>in<S> <K>G Major<D>,<S> <CA>RV 438<D>:<S> <I>III.<S> <N>Allegro
+<N>Gloria<S> <K>D Major<D>,<S> <CA>RV 589<D>:<S> <I>I.<S> <N>Gloria in excelsis Deo
+<N>La Primavera'<S> <D>-<S> <N>Spring<S> <D>-<S> <N>Concerto<S> <D>in<S> <K>E Major<D>:<S> <I>I.<S> <N>Allegro
+<N>12 Concertos<D>,<S> <CA>Op.3<S> <D>-<S> <M>"<N>L'estro armonico<M>"<S> <D>-<S> <N>Concerto<S> <I>No.10<S> <D>in<S> <K>B minor<S> <N>for 4 violins and cello<D>:<S> <I>2.<S> <N>Largo-Larghetto
+<N>Carnival of the Animals<D>:<S> <I>II.<S> <N>Hens and Cockerels
+<N>Appalachian Spring<D>:<S> <N>Doppio movimento
+<N>Symphony<S> <I>No. 5<S> <D>in<S> <K>E-Flat Major<D>,<S> <CA>Op. 82<D>:<S> <I>III.<S> <N>Allegro molto – Misterioso – Un pochettino largamente – Largamente assai<S> <D>-<S> <V>Live
+<N>Somewhere
+<N>Symphony<S> <I>No. 6<S> <D>in<S> <K>F Major<D>,<S> <CA>Op. 68<S> <M>"<N>Pastoral<M>"<D>:<S> <I>V.<S> <N>Hirtengesang. Frohe und dankbare Gefühle nach dem Sturm. Allegretto<S> <D>-<S> <V>Live
+<N>Adagio for Strings<D>,<S> <CA>Op. 11<D>:<S> <N>Molto Adagio<S> <D>-<S> <V>2017 Remastered Version
+<N>Symphony<S> <I>No. 1<S> <D>in<S> <K>F Minor<D>,<S> <CA>Op. 10<D>:<S> <I>IV.<S> <N>Allegro molto – Lento – Allegro molto – Meno mosso<S> <D>-<S> <V>Live
+<N>Mass<D>:<S> <N>Devotions before Mass<D>:<S> <N>Responsory,<S> <M>"<N>Alleluia<M>"<S> <M>(<O>Soprano 1, Soprano 2, Alto, Tenor, Baritone, Bass<M>)
+<N>On the Waterfront Suite<D>:<S> <I>V.<S> <N>Allegro non troppo, molto marcato<S> <M>(<V>Live<M>)
+<CO>Brahms<D>:<S> <N>6 Lieder<D>,<S> <CA>Op. 86<D>:<S> <I>II.<S> <N>Feldeinsamkeit
+<N>Jeux d'enfants, petite suite per orchestra<D>,<S> <CA>Op. 22<D>:<S> <I>III.<S> <N>La Poupée<S> <M>(<N>Berceuse. Andantino semplice<M>)
+<N>Carmen, Preludio<S> <D>-<S> <V>Grabación en Vivo
+<N>Pagliacci<D>,<S> <N>Prologue<D>:<S> <N>Si Puo!
+<N>カルメン 第 1組曲<D>,<S> <I>6.<S> <N>闘牛士
+<N>An Island Shieling Song
+<N>Carmen<D>:<S> <N>Carmen Suite<D>,<S> <I>Act II<D>:<S> <N>Blumenarie<D>,<S> <M>"<N>Flower Song<M>"<S> <M>(<V>arr. A Tarkmann for chamber ensemble<M>)
+<N>Carmen Suite<S> <I>No. 2<D>:<S> <I>V.<S> <N>La Garde montante IV
+<N>Carmen<D>,<S> <I>Act III<D>:<S> <N>Air de Micaela<S> <D>-<S> <M>"<N>Je dis, que rien<M>"
+<CO>Bizet<D>:<S> <N>Carmen<D>,<S> <CA>WD 31<D>,<S> <I>Act 1<D>:<S> <M>"<N>Carmen ! sur tes pas nous nous pressons tous !<M>"<S> <M>(<O>Chœur<M>)
+<N>Carmen<D>,<S> <CA>WD 31<D>:<S> <N>Carmen<D>:<S> <N>Habanera
+<N>Symphony<S> <I>No. 1<S> <D>in<S> <K>D Major<S> <M>'<N>Titan<M>'<D>:<S> <I>Ii.<S> <N>with Energy and Animation, But Not Too Fast
+<N>A Talking Portrait<D>:<S> <N>Bruno Walter in Conversation with Arnold Michaelis
+<N>Lieder eines fahrenden Gesellen<D>:<S> <I>No. 4.<S> <N>Die zwei blauen Augen
+<N>Symphony<S> <I>No. 3<S> <D>in<S> <K>D Minor<D>:<S> <I>V.<S> <N>Lustig im Tempo und keck im Ausdruck
+<N>Symphony<S> <I>No. 5<S> <D>in<S> <K>C-Sharp Minor<D>:<S> <I>II.<S> <N>Stürmisch bewegt. Mit größter Vehemenz<S> <D>-<S> <V>Live
+<N>Kindertotenlieder<D>:<S> <I>No. 5<D>,<S> <N>In diesem Wetter
+<N>Symphony<S> <I>No. 1<S> <D>in<S> <K>D Major<D>,<S> <M>"<N>Titan<M>"<D>:<S> <I>I.<S> <N>Langsam, schleppend
+<N>Symphony<S> <I>No. 8<S> <D>in<S> <K>E-Flat Major<S> <M>"<N>Symphony of a Thousand<M>"<D>,<S> <I>Pt. 2<D>:<S> <I>II.<S> <N>Più mosso. Allegro moderato<S> <D>-<S> <V>Live
+<N>Symphony<S> <I>No. 4<D>:<S> <I>I.<S> <N>Heiter, bedächtig, nicht eilen<S> <D>-<S> <V>Live
+<N>Symphony<S> <I>No. 3<D>,<S> <I>Zweite Abtheilung<D>:<S> <I>V.<S> <N>Lustig im Tempo und keck im Ausdruck
+<N>Khovanshchina<D>,<S> <I>Act V<D>:<S> <N>Gde ty, moja voljuska?<S> <D>-<S> <N>Ja ne ostavlju tebja<S> <D>-<S> <N>Truba predvecnogo!<S> <D>-<S> <N>Gospodi slavy
+<N>Boris Godounov<D>,<S> <I>Act 2<S> <M>(<V>Arr. Rimsky-Korsakov<M>)<D>:<S> <M>"<N>Akhty!...Chevo?<M>"
+<N>The Endearing Image of You, so very Charming
+<N>Khovanshchina<D>:<S> <N>Prelude. Dawn on the Moscow River
+<N>Борис Годунов<D>,<S> <I>IV действии<D>:<S> <N>История Пимена и смерть Бориса Годунова
+<N>Pictures At An Exhibition<D>:<S> <N>Promenade I
+<N>Sorochinsky Fair<D>,<S> <I>Act II<S> <M>(<V>Arr. for Voices, Choir & Orchestra by Fabrice Bollon<M>)<D>:<S> <N>Sagana, Sagana!<S> <M>[<O>Chorus<M>]
+<N>Bydlo
+<N>Pictures At an Exhibition
+<N>Khovanshchina<D>:<S> <N>Overture<S> <M>"<N>Dawn on the Moscow River<M>"
+<N>Fêtes Galantes<S> <M>(<I>I<M>)<D>,<S> <CA>L. 80<D>:<S> <N>Fantoches
+<N>Suite bergamasque<D>:<S> <I>III.<S> <N>Clair de lune<S> <M>(<V>arr. by G. Garcia for guitar and orchestra<M>)
+<N>Suite bergamasque<D>:<S> <I>III.<S> <N>Clair de lune<S> <M>(<V>arr. A. Reed for orchestra<M>)<D>:<S> <N>Clair de lune
+<N>Capriccio Espagnol<D>,<S> <CA>Op. 34<D>:<S> <I>I.<S> <N>Alborada
+<N>Children's Corner<D>,<S> <CA>L. 113<D>:<S> <I>5.<S> <N>The little Shepherd
+<N>Rêverie<D>,<S> <CA>L. 68
+<N>La mer<D>:<S> <I>No. 2.<S> <N>Jeux de vagues
+<N>Rêverie
+<N>Salut Printemps<S> <M>(<V>Live<M>)
+<N>En blanc et noir<D>,<S> <CA>L.134<D>:<S> <I>1.<S> <N>Avec emportement
+<N>Ade zur guten Nacht
+<N>Spanish Gypsy Dance
+<N>On hanget korkeat nietokset
+<N>Scottish Medley
+<N>O wie so schon und gut
+<N>Sonata Prima
+<N>Harvest Song
+<N>Whakaaria Mai<S> <M>(<N>How Great Thou Art<M>)<S> <M>(<O>with New Zealand Symphony Orchestra<M>)
+<N>The Last Supper<D>:<S> <N>Unus ex discipulis
+<N>Traditional<D>:<S> <N>The Holly And The Ivy
+<CO>Georg Fridrich Händel<D>:<S> <N>Sonata for Violin and Piano<S> <D>D Major<D>,<S> <CA>Op. 1<S> <CA>HWV 371<D>:<S> <I>IV.<S> <N>Allegro
+<N>Flute Sonata<S> <D>in<S> <K>D Major<D>,<S> <CA>HWV 378<D>:<S> <I>III.<S> <N>Adagio
+<N>Recorder Concerto<S> <D>in<S> <K>B flat<D>,<S> <CA>Op. 4, No. 6<S> <CA>HWV 294<S> <D>-<S> <V>Arr. from Organ Concerto No. 6, HWV 294<D>:<S> <I>2.<S> <N>Larghetto
+<N>Messiah<D>,<S> <CA>HWV 56<D>:<S> <I>Pt. II<D>:<S> <N>Aria.<S> <N>Thou shalt break them with a rod of iron<S> <M>(<O>Tenor<M>)
+<N>Messiah<D>,<S> <CA>HWV 56<S> <D>/<S> <I>Pt. 2<D>:<S> <I>No. 24<S> <M>"<N>All We Like Sheep Have Gone Astray<M>"
+<N>Third Orchestra Suite<S> <D>in<S> <K>D<D>:<S> <N>Air On A G String
+<N>Concerto grosso<S> <D>in<S> <K>C<D>,<S> <CA>HWV 318<S> <M>"<N>Alexander's Feast<M>"<D>:<S> <I>2.<S> <N>Largo<S> <D>-<S> <N>Adagio
+<N>Messiah<D>,<S> <CA>HWV 56<D>,<S> <I>Part I<D>:<S> <N>Thus Saith the Lord of Hosts
+<N>Harpsichord Suite<S> <I>No. 7<S> <D>in<S> <K>G Minor<D>,<S> <CA>HWV, 432<D>:<S> <I>II.<S> <N>Andante
+<N>Alessandro<S> <D>-<S> <N>Opera in 3 Acts<D>,<S> <CA>HWV 21<S> <D>/<S> <I>Act 1<D>:<S> <N>Solo e coro<D>:<S> <M>"<N>Fra le guerre e le vittorie fama eterna il ciel mi dà<M>"
+<N>Luisa Miller<D>:<S> <I>Act I Scene 1<D>:<S> <N>Ferma ed ascolta<S> <M>(<O>Wurm, Miller<M>)
+<N>Traviata<S> <D>-<S> <N>Dite alla giovane si bella e pura
+<N>Otello<D>,<S> <I>Act IV Scene 2<D>:<S> <M>"<N>Ave Maria, piena di grazia<M>"<S> <M>(<O>Desdemona<M>)<S> <M>[<O>1947 Recording<M>]
+<N>Falstaff<D>,<S> <I>Act II<D>:<S> <I>Act II<D>:<S> <N>Se t' agguanto!<S> <M>(<O>Ford<M>)
+<N>La traviata<D>,<S> <I>Act II<D>:<S> <N>Di Provenza il mar
+<CO>Verdi<D>:<S> <N>La traviata<D>,<S> <I>Act 3<D>:<S> <N>Largo al quadrupede<S> <M>(<O>Chorus<M>)
+<N>La Forza del Destino<S> <M>(<V>1997 - Remaster<M>)<D>,<S> <I>Act II<D>:<S> <N>Viva la buona compagnia!
+<N>Rigoletto<D>,<S> <I>Act I<D>:<S> <M>"<N>Wie lästig, Ceprano ist immer bei ihr<M>"<S> <D>-<S> <M>"<N>Diese Tänze, diese Klänge<M>"
+<N>La Traviata.<S> <N>Melodramma in 3 Akten.<S> <V>Auszüge<S> <D>/<S> <N>Melodramma in 3 Acts.<S> <V>Excerpts<D>:<S> <N>Präludium
+<N>Don Carlo<S> <M>(<O>Don Carlos<M>)<D>:<S> <I>Act II Scene 1<D>:<S> <N>Al mio furor sfuggite invano<S> <M>(<O>Eboli, Rodrigo, Don Carlo<M>)
+<N>Die Walküre<D>:<S> <N>Hojotoho!
+<N>Die Walküre<D>,<S> <CA>WWV 86B<D>,<S> <I>Act I Scene 3<D>:<S> <N>Winterstürme wichen dem Wonnemond<S> <M>(<V>Remastered 2021<M>)<S> <M>[<V>Live<M>]
+<N>Parsifal<D>,<S> <CA>WWV 111<S> <D>-<S> <V>Concert version<S> <D>/<S> <I>Act 3<D>:<S> <N>Good Friday Spell
+<N>Le vaisseau fantôme<D>,<S> <I>Act III<D>:<S> <M>"<N>Willst jenes Tags dich nicht mehr entsinnen<M>"<S> <M>(<O>Erik, Hollandais, Senta, Daland, Mary, Chœur<M>)<S> <D>-<S> <V>Live
+<N>Die Meistersinger von Nürnberg<D>:<S> <M>"<N>Wach auf!<M>"<S> <M>(<N>Wach-auf-Chor<M>)
+<N>Die Walküre<D>,<S> <CA>WWV 86b<D>:<S> <I>1. Aufzug<D>:<S> <I>1. Szene<D>:<S> <N>Wes Herd dies auch sei, hier muss ich rasten
+<N>Lohengrin<S> <D>:<S> <I>Act I<S> <D>-<S> <N>Mich irret nicht ihr träumerischer Mut
+<N>Auid Lang Syne
+<N>Siegfried Idyll<D>,<S> <CA>WWV 103
+<CO>Wagner<D>:<S> <N>Siegfried<D>,<S> <I>Act 1<D>:<S> <M>"<N>Viel, Wanderer, weisst du mir aus der Erde Nabelnest<M>"<S> <M>(<O>Mime, Wanderer<M>)
+<N>Kaddish
+<CO>Ravel<D>:<S> <N>Vocalise-étude en forme de habanera<D>,<S> <CA>M. 51
+<N>Piano Concerto<S> <D>in<S> <K>G Major<D>,<S> <CA>M. 83<D>:<S> <I>I.<S> <N>Allegramente
+<N>Gaspard de la nuit<D>,<S> <CA>M. 55<D>:<S> <I>II.<S> <N>Le Gibet
+<N>Sérénade grotesque<D>,<S> <CA>M. 5
+<N>Daphnis et Chloé<D>,<S> <CA>M. 57<S> <M>(<V>Version for Piano<M>)<D>:<S> <I>XIII.<S> <N>Bacchanale
+<N>Pavane pour une infante défunte
+<N>Piano Concerto<S> <D>in<S> <K>G Major<D>,<S> <CA>M. 83<D>:<S> <I>2.<S> <N>Adagio assai
+<N>Histoires naturelles<D>,<S> <CA>M. 50<D>,<S> <CA>IMR 19<D>:<S> <I>V.<S> <N>La pintade<S> <M>=<S> <N>Guinea Hens or The Guinea‑fowl.<S> <N>Assez vite<S> <M>(<K>E Major<M>)<D>.<S> <N>C'est la bossue de ma cour
+<N>Gaspard de la nuit<S> <D>-<S> <N>Scarbo
+<N>2 Polonaises<D>,<S> <CA>S.223<D>:<S> <I>No. 2<S> <N>Polonaise<S> <D>in<S> <K>E Major
+<N>Liebestraum<D>,<S> <CA>S. 541<D>,<S> <I>No. 3
+<N>Fantasy & Fugue on the Chorale "Ad nos, ad salutarem undam"<D>,<S> <CA>S. 624<D>:<S> <N>Fantasy
+<N>Hungarian Rhapsody<S> <I>No. 15<S> <D>in<S> <K>A Minor<D>,<S> <CA>S. 244/15a<S> <M>(<V>Simplified Version<M>)
+<N>Concerto<S> <D>in<S> <K>E Flat Major<D>,<S> <CA>S.124<D>:<S> <N>Piano Concerto<S> <I>No. 1<S> <D>in<S> <K>E-Flat Major<D>,<S> <CA>S.124
+<CO>Liszt<D>:<S> <N>Malédiction<D>,<S> <CA>S. 121
+<N>Spanish Rhapsody<D>,<S> <CA>S. 254
+<N>Consolations<D>,<S> <CA>S172/R12<D>:<S> <I>No. 3.<S> <N>Lento placido
+<N>Liebestraume<D>,<S> <CA>S.541<D>;<S> <CA>LW.A103<D>:<S> <I>II.<S> <N>Seliger Tod<S> <D>in<S> <K>E flat major
+<N>Hungarian Rhapsodies<S> <I>No. 11<S> <D>in<S> <K>A Minor<D>,<S> <CA>S. 244/11<D>:<S> <N>Lento a capriccio
+<N>Il turco in Italia<S> <M>(<N>the Turk in Italy<M>)<D>,<S> <I>Act II Scene 11<D>:<S> <N>Oh! Guardate che accidente<S> <M>[<O>Geronio, Narciso, Zaida, Selim, Fiorilla, Chorus<M>]
+<N>L'inganno felice<D>:<S> <N>Overture
+<N>Demetrio e Polibio<D>,<S> <I>Act I<D>:<S> <N>Andiamo taciti<S> <M>(<V>Live<M>)
+<N>La gazza ladra<D>,<S> <I>Act I<D>:<S> <I>Act I Scene 1<D>:<S> <N>Marmotte, che fate?<S> <M>(<O>Lucia, Pippo, Chorus, Fabrizio, La Gazza<M>)
+<N>Stabat mater<D>:<S> <N>Pro peccatis suae gentis
+<N>Sonata for Strings<S> <I>No. 4<S> <D>in<S> <K>B-Flat Major<D>:<S> <I>III.<S> <N>Allegretto
+<N>Il Re Di Lahore<D>,<S> <I>Atto IV<D>:<S> <M>"<N>O casto fior del mio sospir<M>"
+<N>L'Italiana in Algeri<D>,<S> <I>Act II Scene 4<D>:<S> <N>Aria.<S> <N>Ho un gran peso sulla testa<S> <M>(<O>Taddeo<M>)
+<N>Il Barbiere di Siviglia<D>,<S> <I>Act II<D>:<S> <N>Recitativo<D>:<S> <N>Venite, signorina<S> <M>(<O>Bartolo/Rosina/Conte<M>)
+<N>Lakme<D>:<S> <N>Dov'e' l'indiana Bruna
+<N>Sonata<S> <D>in<S> <K>F-Sharp Minor<D>,<S> <CA>K.67
+<N>Piano Sonata<S> <D>in<S> <K>C Minor<D>,<S> <CA>Kk. 56<D>:<S> <N>Con spirito
+<N>Keyboard Sonata<S> <D>in<S> <K>E-Flat Major<D>,<S> <CA>K.193/L.142/P.254
+<N>Stabat Mater<D>:<S> <N>Inflammatus
+<N>Sonata<S> <D>in<S> <K>A Major<D>,<S> <CA>Kk. 268
+<N>Keyboard Sonata<S> <D>In<S> <K>F Major<D>,<S> <CA>K. 483/L.472/P.407<D>:<S> <N>Keyboard Sonata<S> <D>In<S> <K>F Major<D>,<S> <CA>K.483/L.472/P.407<D>:<S> <N>Presto
+<N>Sonata<S> <CA>K. 318<S> <D>in<S> <K>F-sharp Major<S> <D>-<S> <N>Andante, for harpsichord
+<N>Sonata<S> <CA>K. 310<S> <D>in<S> <K>B-flat Major<S> <D>-<S> <N>Andante, for harpsichord
+<N>Sonata<D>,<S> <CA>Kk. 531
+<N>Keyboard Sonata<S> <D>in<S> <K>G Major<D>,<S> <CA>K.125/L.487/P.152
+<N>Tosca<S> <M>(<V>1997 Digital Remaster<M>)<D>,<S> <I>ACT 1<D>:<S> <N>Gente là dentro!
+<N>Madame Butterfly<D>,<S> <I>1. Akt<D>:<S> <N>Vogliatemi bene<S> <M>(<N>Mona Lisa<M>)<D>:<S> <N>Non lo sapete insomma<S> <M>(<O>Butterfly, Sharpless, Goro, Yamadori<M>)
+<N>Il tabarro<D>,<S> <CA>SC 85<S> <M>(<V>Sung in German<M>)<D>:<S> <N>Marcel! Ich hab' Angst
+<N>Gianni Schicchi<D>:<S> <N>O mio babbino caro
+<CO>Puccini<D>:<S> <N>Madama Butterfly<D>,<S> <I>Act 2<D>:<S> <M>"<N>A voi però giurerei fede costante<M>"<S> <M>(<O>Yamadori, Sharpless, Goro, Butterfly<M>)
+<N>Tosca<D>,<S> <CA>S. 69<D>,<S> <I>Act II<D>:<S> <I>Act II<D>:<S> <N>Es war' doch schad'<S> <M>(<O>Scarpia<M>)
+<N>Madama Butterfly<D>,<S> <I>Act II<D>:<S> <N>Coro a bocca chiusa<S> <M>"<N>Humming Chorus<M>"
+<N>La fanciulla del West<D>,<S> <CA>SC 78<D>,<S> <I>Act I<D>:<S> <N>Introduction
+<N>Una Furtiva Lagrima
+<N>Gianni Schicchi<D>:<S> <N>Avete torto!; Firenze è come un albero fiorito
+<N>Die Entführung aus dem Serail<D>,<S> <CA>K. 384<D>,<S> <I>Act II<D>:<S> <N>Ach Belmonte!
+<N>Mexicano<S> <D>-<S> <V>Remasterizado
+<CO>Leoncavallo<D>:<S> <N>Zingari<D>:<S> <M>"<N>Presto! Ognuno rientri<M>"<S> <M>(<O>Chorus, Tamar<M>)
+<N>Swan Lake<D>,<S> <CA>Op. 20a<D>,<S> <I>Act I<S> <N>the terrace in front of the palace of Prince Siegfried<D>:<S> <I>No. 5<D>,<S> <N>Pas de deux<D>:<S> <I>IV.<S> <N>Coda. Allegro molto vivace
+<N>Dance Rhapsody<S> <I>No. 2<D>:<S> <N>Dance Rhapsody<S> <I>No. 2
+<M>"<N>The Ruins of Athens<M>"<S> <N>Incidental Music<D>,<S> <CA>Op. 113<D>:<S> <I>V.<S> <N>Chorus: Where Freedom Hath Triumphed
+<N>Dreamweaver<D>:<S> <I>3.<S> <N>The Bridge
+<N>Messiah<S> <M>(<CA>HWV 56<M>)<D>:<S> <I>Pt. 1, no. 5.<S> <N>Thus Saith the Lord
+<N>L'enfant prodigue<D>,<S> <CA>L. 57<D>:<S> <N>Cortège et air de dance
+<N>Symphony<S> <I>No. 3<S> <N>in One Movement<D>:<S> <I>Ie.<S> <N>Crotchet = 136
+<N>13 Preludes<D>,<S> <CA>Op. 32<D>:<S> <I>No. 2<S> <D>in<S> <K>B-Flat Minor<D>:<S> <N>Allegretto
+<N>Sad Is The Night<S> <M>(<N>Noch pechal'na<M>)<D>,<S> <CA>Op. 26<D>,<S> <I>No. 12
+<N>Rhapsody on a Theme of Pagnini<S> <D>in<S> <K>A Minor<D>,<S> <CA>Op. 43<D>:<S> <I>Variation. No. 2<D>,<S> <N>L'istesso tempo
+<N>Moments musicaux<D>,<S> <CA>Op. 16<D>:<S> <N>Andantino<S> <D>in<S> <K>B-Flat Minor
+<CO>Rachmaninoff<S> <D>-<S> <N>Moments musicaux<D>,<S> <CA>Op. 16<S> <D>-<S> <I>IV<S> <N>Presto
+<N>Cornish Rhapsody<S> <M>(<O>From<S> <M>"<N>Love Story<M>"<M>)
+<N>Six Preludes<D>:<S> <N>Prelude<S> <I>No. 4<S> <D>in<S> <K>D Major<D>,<S> <CA>Op. 23
+<N>Vocalise<D>,<S> <CA>Op. 34<D>,<S> <I>No. 14
+<N>Oriental Sketch<D>,<S> <CA>TN ii/19/2
+<N>Études-tableaux<D>,<S> <CA>Op. 39<D>:<S> <I>VII.<S> <N>Lento, lugubre<S> <D>in<S> <K>C Minor
+<N>Symphonie Espagnole<D>,<S> <CA>Op. 21<D>:<S> <I>V.<S> <N>Allegro
+<N>Festive Overture<S> <CA>Op.96
+<N>Lohengrin<D>,<S> <CA>WWV 75<D>,<S> <I>Act I<D>:<S> <N>Einsam in trüben Tagen<S> <M>(<N>Elsa's Dream<M>)
+<CO>Donizetti<D>:<S> <N>L'assedio di Calais<D>:<S> <M>"<N>Le Fibre, Oh dio!<M>"<S> <M>(<O>Eleonora, Eustachio<M>)
+<N>Cavalleria Rusticana<D>:<S> <N>Intermezzo<S> <M>(<O>Orchestra<M>)
+<CO>Donizetti<D>:<S> <N>Lucia di Lammermoor<D>,<S> <I>Act 1<D>:<S> <M>"<N>La pietade in suo favore<M>"<S> <M>(<O>Enrico, Raimondo, Coro<M>)
+<N>Nocturnes<D>,<S> <CA>L. 91<D>:<S> <I>No. 2<D>,<S> <N>Fêtes
+<N>La Wally<D>:<S> <N>I'll float into the distance
+<N>Overture Maître Péronilla
+<N>Don Carlo<S> <M>(<V>1984 Digital Remaster<M>)<D>:<S> <N>Don Carlo<D>:<S> <N>O don fatale
+<CO>Mozart<D>:<S> <N>Die Entführung aus dem Serail<D>,<S> <CA>K. 384<D>,<S> <I>Act 3<D>:<S> <M>"<N>Nie werd' ich dich deine Huld verkennen<M>"<S> <M>(<O>Belmonte, Konstanze, Pedrillo, Blonde, Osmin, Chor<M>)
+<N>Otello<S> <D>/<S> <I>Act 3<D>:<S> <N>Quest'è il segnale
+<N>Der Rosenkavalier<D>,<S> <CA>Op. 59<S> <D>/<S> <I>Act 2<D>:<S> <M>"<N>Herr Baron von Lerchenau!<M>"
+<N>Wiener Blut<S> <CA>Op. 354<S> <M>(<N>Vienna Blood<M>)
+<N>Le nozze di Figaro<D>,<S> <CA>K. 492<D>,<S> <I>Act IV<D>:<S> <N>Recit.<S> <N>Barbarina, cos'hai?<S> <D>-<S> <N>Madre... Figlio<S> <D>-<S> <N>Presto, avvertiam Susanna<S> <D>-<S> <V>Live
+<N>Kaiserwalzer<D>,<S> <CA>Op.437
+<N>Die Zauberflöte<D>.<S> <CA>KV 620<S> <I>Zweiter Aufzug<D>:<S> <N>O Isis und Osiris<S> <D>-<S> <V>Ver. 1
+<N>Galop and Ecossaises<D>,<S> <CA>D. 735<S> <M>(<V>Orch. Maderna<M>)<D>:<S> <N>Ecossaises<S> <I>Nos 1-3, 5-6, 8<S> <D>-<S> <V>Live
+<N>Don Giovanni<D>,<S> <CA>K. 527<D>,<S> <I>Act I<D>:<S> <N>Alfin siam liberati
+<N>Symphony<S> <I>No. 5<S> <D>In<S> <K>B Flat<D>,<S> <CA>D.485<D>:<S> <I>III.<S> <N>Menuetto<S> <M>(<N>Allegro molto<M>)

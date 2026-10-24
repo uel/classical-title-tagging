@@ -5,7 +5,7 @@
   <meta name="description" content="A structured index for classical music on streaming platforms">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>A Structured Index for Classical Music</title>
+  <title>A Structured Index for Classical Music on Streaming Platforms</title>
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -67,7 +67,7 @@
     <div class="container is-max-desktop">
       <div class="columns is-centered">
         <div class="column has-text-centered">
-          <h1 class="title is-1 publication-title">A Structured Index<br>for Classical Music on Spotify</h1>
+          <h1 class="title is-1 publication-title">A Structured Index<br>for Classical Music on Streaming Platforms</h1>
           <h2 class="subtitle is-5">Recovering composer, work, catalogue number and movement from track titles</h2>
 
           <div class="column has-text-centered">
@@ -102,8 +102,8 @@
   <div class="container is-max-desktop has-text-centered">
     <p class="is-size-5 method-note">
       Spotify describes a classical recording with the same fields it uses for a pop song
-      &mdash; artist, title, album &mdash; so composer, work, catalogue number and movement
-      survive only as free text inside the title. This is a method for recovering them.
+      &mdash; artist, title, album &mdash; work, catalogue number and movement survive only as
+      free text inside the title. This is a method for recovering them.
     </p>
   </div>
 </section>
@@ -114,7 +114,7 @@
 
     <p class="has-text-centered method-note is-size-6">
       A BERT token classifier &mdash; <code>bert-base-multilingual-cased</code>, fine-tuned on
-      hand-annotated titles &mdash; decomposes a title into ten segment types:
+      annotated titles &mdash; decomposes a title into ten segment types:
     </p>
 
     <div class="columns is-centered">
@@ -160,8 +160,8 @@
   <div class="container is-max-desktop">
     <h2 class="title is-3 has-text-centered">What it looks like at catalogue scale</h2>
     <p class="has-text-centered method-note is-size-6">
-      Applied to the classical portion of a large Spotify metadata dump &mdash; 5.0 million
-      titles, 18.3 million extracted segments.
+      Applied to the classical portion of Spotify &mdash; 5.0 million titles, 18.3 million
+      extracted segments.
     </p>
 
     <div class="columns is-centered">
@@ -204,8 +204,7 @@
     </div>
     <p class="caption has-text-centered">
       For one composer the index resolves to individual works: simply counting tracks per BWV
-      number covers Bach&rsquo;s complete output, grouped into its standard categories
-      (cantatas, chorales, organ, keyboard, chamber, orchestral works).
+      number covers Bach&rsquo;s complete output, grouped into its standard categories.
     </p>
 
     <div class="columns is-centered">
@@ -243,24 +242,14 @@
     <p class="is-size-6 method-note">
       <strong>Its taxonomy is different.</strong> A work is not a recording: one sonata exists as
       hundreds of recordings by different pianists, on different labels, in different decades,
-      each containing several movements. The entities a listener cares about are not the ones the
-      platform indexes, the &ldquo;artist&rdquo; field holds a performer, conductor or orchestra,
-      and the composer may appear only inside the title.
-    </p>
-
-    <p class="is-size-6 method-note">
-      <strong>Its usage is different.</strong> Listeners search by composer, then work, then
-      compare performers; they follow a work across recordings rather than an artist across
-      albums. A list of albums by a conductor is close to useless, while every recording of the
-      Goldberg Variations sorted by year is exactly the ask. Movements are not songs, transitions
-      should be gapless, and a work should be queued whole.
+      arrangements/instruments each containing several movements. The entities a listener cares
+      about are not the ones the platform indexes.
     </p>
 
     <p class="is-size-6 method-note">
       This mismatch is why Apple Music Classical and IDAGIO exist, and why both had to build a
-      work-centric, composer-first model themselves. The structure is already there in the
-      catalogue &mdash; it is just written in prose, in the title. Recovering it turns a flat list
-      of tracks into an index organised the way classical listeners actually browse.
+      work-centric, composer-first model themselves. This is an experiment which turns a flat
+      list of tracks into an index organised the way classical listeners can browse.
     </p>
   </div>
 </section>

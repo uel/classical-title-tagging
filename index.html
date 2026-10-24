@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="A structured index for classical music on streaming platforms">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>A Structured Index for Classical Music</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+  <style>
+    body {
+      font-family: 'Noto Sans', 'Castoro', sans-serif;
+    }
+    .publication-title {
+      font-family: 'Google Sans', 'Jost', sans-serif;
+      font-weight: 500;
+    }
+    .hero.is-light .hero-body, section.section { padding-top: 2rem; padding-bottom: 2rem; }
+    .figure-image { border: 1px solid #eee; border-radius: 6px; }
+    .caption {
+      font-size: 0.95rem;
+      color: #555;
+      max-width: 46rem;
+      margin: 0.9rem auto 2.6rem auto;
+      line-height: 1.5;
+    }
+    pre {
+      background: #f7f7f7;
+      border-radius: 6px;
+      padding: 1rem 1.2rem;
+      overflow-x: auto;
+      font-size: 0.85rem;
+    }
+    table.tag-table td, table.tag-table th { vertical-align: middle; }
+    .tag-code {
+      font-family: monospace;
+      background: #f2f2f2;
+      border-radius: 4px;
+      padding: 0.1rem 0.35rem;
+    }
+    .method-note { max-width: 46rem; margin: 0 auto; }
+  </style>
+</head>
+<body>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-menu">
+    <div class="navbar-start" style="flex-grow: 1; justify-content: center;">
+      <a class="navbar-item" href="#method">Method</a>
+      <a class="navbar-item" href="#results">Results</a>
+      <a class="navbar-item" href="#motivation">Motivation</a>
+    </div>
+  </div>
+</nav>
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">A Structured Index<br>for Classical Music on Spotify</h1>
+          <h2 class="subtitle is-5">Recovering composer, work, catalogue number and movement from track titles</h2>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <span class="link-block">
+                <a href="#method" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fas fa-tags"></i></span>
+                  <span>The method</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="#results" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fas fa-chart-pie"></i></span>
+                  <span>Results</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="#motivation" class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fas fa-music"></i></span>
+                  <span>Why it matters</span>
+                </a>
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop has-text-centered">
+    <p class="is-size-5 method-note">
+      Spotify describes a classical recording with the same fields it uses for a pop song
+      &mdash; artist, title, album &mdash; so composer, work, catalogue number and movement
+      survive only as free text inside the title. This is a method for recovering them.
+    </p>
+  </div>
+</section>
+
+<section class="section" id="method">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">The method</h2>
+
+    <p class="has-text-centered method-note is-size-6">
+      A BERT token classifier &mdash; <code>bert-base-multilingual-cased</code>, fine-tuned on
+      hand-annotated titles &mdash; decomposes a title into ten segment types:
+    </p>
+
+    <div class="columns is-centered">
+      <div class="column is-9">
+        <table class="table is-fullwidth is-striped tag-table">
+          <thead>
+            <tr><th>Tag</th><th>Segment</th><th>Example</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><span class="tag-code">CO</span></td><td>composer</td><td><code>Chopin</code></td></tr>
+            <tr><td><span class="tag-code">N</span></td><td>name of the work or movement</td><td><code>Piano Concerto</code>, <code>Allegro maestoso</code></td></tr>
+            <tr><td><span class="tag-code">CA</span></td><td>catalogue number</td><td><code>Op. 11</code>, <code>BWV 1049</code>, <code>K. 331</code></td></tr>
+            <tr><td><span class="tag-code">I</span></td><td>index / movement number</td><td><code>No. 1</code>, <code>II.</code></td></tr>
+            <tr><td><span class="tag-code">K</span></td><td>key</td><td><code>E minor</code></td></tr>
+            <tr><td><span class="tag-code">V</span></td><td>version, edition or performance qualifier</td><td><code>Live</code>, <code>arr.</code>, <code>Remastered</code></td></tr>
+            <tr><td><span class="tag-code">D</span></td><td>delimiter</td><td><code>in</code>, <code>,</code>, <code>:</code></td></tr>
+            <tr><td><span class="tag-code">M</span></td><td>markup</td><td>brackets, quotation marks</td></tr>
+            <tr><td><span class="tag-code">S</span></td><td>whitespace</td><td>&mdash;</td></tr>
+            <tr><td><span class="tag-code">O</span></td><td>other</td><td>&mdash;</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="columns is-centered">
+      <div class="column is-9">
+        <p class="has-text-centered is-size-6">A title such as</p>
+<pre>Piano Concerto No. 1 in E minor, Op. 11: I. Allegro maestoso</pre>
+        <p class="has-text-centered is-size-6">is rewritten as</p>
+<pre>&lt;CO&gt;Chopin&lt;D&gt;:&lt;S&gt; &lt;N&gt;Piano Concerto&lt;S&gt; &lt;I&gt;No. 1&lt;S&gt; &lt;D&gt;in&lt;S&gt; &lt;K&gt;E minor&lt;D&gt;,&lt;S&gt; &lt;CA&gt;Op. 11&lt;D&gt;:&lt;S&gt; &lt;I&gt;I.&lt;S&gt; &lt;N&gt;Allegro maestoso</pre>
+        <p class="method-note is-size-6">
+          which is not a better string but a set of join keys: <code>Chopin</code> links the
+          recording to a composer page, <code>Op. 11</code> links it to every other recording of
+          the same work, <code>I.</code> orders the movement inside the work, <code>E minor</code>
+          becomes a filter.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="results">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">What it looks like at catalogue scale</h2>
+    <p class="has-text-centered method-note is-size-6">
+      Applied to the classical portion of a large Spotify metadata dump &mdash; 5.0 million
+      titles, 18.3 million extracted segments.
+    </p>
+
+    <div class="columns is-centered">
+      <div class="column is-7 has-text-centered">
+        <img src="figures/tag-types.png" alt="Segment types" class="figure-image">
+      </div>
+    </div>
+    <p class="caption has-text-centered">
+      Names and movement indices dominate, followed by catalogue numbers and keys: exactly
+      the information a work-centric player needs and a track-centric catalogue lacks.
+    </p>
+
+    <div class="columns is-centered">
+      <div class="column is-7 has-text-centered">
+        <img src="figures/catalog-prefixes.png" alt="Catalogue systems" class="figure-image">
+      </div>
+    </div>
+    <p class="caption has-text-centered">
+      Catalogue numbers are the work identifiers, and they arrive in many numbering systems at
+      once &mdash; Opus, BWV, K&ouml;chel, Hoboken, Ryom, Deutsch &mdash; which is why a
+      normalised work identifier has to be constructed rather than read off a field.
+    </p>
+
+    <div class="columns is-centered">
+      <div class="column is-9">
+        <div class="box has-text-centered">
+          <p class="is-size-6">
+            Searching this index is exact. Asking for Beethoven&rsquo;s Op. 111 returns
+            <strong>997 entries</strong> from Spotify &mdash; every recording of that sonata, and
+            nothing else, rather than whatever titles happen to contain those characters.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="columns is-centered">
+      <div class="column is-10 has-text-centered">
+        <img src="figures/bwv-sections.png" alt="Bach BWV sections" class="figure-image">
+      </div>
+    </div>
+    <p class="caption has-text-centered">
+      For one composer the index resolves to individual works: simply counting tracks per BWV
+      number covers Bach&rsquo;s complete output, grouped into its standard categories
+      (cantatas, chorales, organ, keyboard, chamber, orchestral works).
+    </p>
+
+    <div class="columns is-centered">
+      <div class="column is-7 has-text-centered">
+        <img src="figures/keys.png" alt="Keys" class="figure-image">
+      </div>
+    </div>
+    <p class="caption has-text-centered">
+      Keys appear in 1,291 different spellings, collapsing to the 24 a listener would recognise
+      &mdash; free text turning into a usable filter.
+    </p>
+
+    <div class="columns is-centered">
+      <div class="column is-10 has-text-centered">
+        <img src="figures/key-confusion.png" alt="Key confusion" class="figure-image">
+      </div>
+    </div>
+    <p class="caption has-text-centered">
+      It also allows verification: comparing the key stated in the title against the key detected
+      in the audio shows where catalogue metadata and recording agree, and flags mislabelled,
+      transposed or arranged releases.
+    </p>
+  </div>
+</section>
+
+<section class="section" id="motivation">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Why this matters</h2>
+
+    <p class="is-size-6 method-note">
+      Popular music fits the streaming data model: one artist, one title, one album, and the
+      artist is who you are looking for. Classical music breaks it in two ways.
+    </p>
+
+    <p class="is-size-6 method-note">
+      <strong>Its taxonomy is different.</strong> A work is not a recording: one sonata exists as
+      hundreds of recordings by different pianists, on different labels, in different decades,
+      each containing several movements. The entities a listener cares about are not the ones the
+      platform indexes, the &ldquo;artist&rdquo; field holds a performer, conductor or orchestra,
+      and the composer may appear only inside the title.
+    </p>
+
+    <p class="is-size-6 method-note">
+      <strong>Its usage is different.</strong> Listeners search by composer, then work, then
+      compare performers; they follow a work across recordings rather than an artist across
+      albums. A list of albums by a conductor is close to useless, while every recording of the
+      Goldberg Variations sorted by year is exactly the ask. Movements are not songs, transitions
+      should be gapless, and a work should be queued whole.
+    </p>
+
+    <p class="is-size-6 method-note">
+      This mismatch is why Apple Music Classical and IDAGIO exist, and why both had to build a
+      work-centric, composer-first model themselves. The structure is already there in the
+      catalogue &mdash; it is just written in prose, in the title. Recovering it turns a flat list
+      of tracks into an index organised the way classical listeners actually browse.
+    </p>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <p class="is-size-7">
+        Figures generated from the analysis of 5.0 million classical titles.
+      </p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
